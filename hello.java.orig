@@ -2,6 +2,11 @@
 class hello	#from wind-user
 {
 	public static void main()	#from wind-user
+=======
+class hello	##from linux-user
+{
+	public static void main()	##from linux-user
+>>>>>>> b58111402c98de6a766db408e31b613a895de1b3
 	{
 		system.out.println("hello from linux-user");
 	}
